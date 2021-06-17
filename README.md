@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Titox085
 - 👀 I’m interested in cybersecurity, web and software development.
 - 🌱 I’m currently learning python, reactjs, and kotlin.
-- 💞️ I’m looking to collaborate on (nothing in mind atm).
+- 💞️ I’m looking to collaborate on projects that can give me experience in various types of tools in the software engineering environment.
 - 📫 You can reach out to me by sending me a email to franciscodmferreira85@gmail.com 
