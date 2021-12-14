@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Titox085
+- 👋 Hi, I’m Francisco Ferreira, currently student of Software Engineer in Instituto Superior de Engenharia do Porto.
 - 👀 I’m interested in cybersecurity, web and software development.
 - 🌱 I’m currently learning python, reactjs, and kotlin.
 - 💞️ I’m looking to collaborate on projects that can give me experience in various types of tools in the software engineering environment.
